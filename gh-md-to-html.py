@@ -1,4 +1,4 @@
-# usage: python3 gh-md-to-html.py readme.md readme.html
+# usage: python3 gh-md-to-html.py index.md index.html
 
 import argparse
 import requests
